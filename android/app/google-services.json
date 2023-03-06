@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608656750345",
+    "project_id": "fir-demo-5713a",
+    "storage_bucket": "fir-demo-5713a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608656750345:android:960d61719051e8714c45d8",
+        "android_client_info": {
+          "package_name": "com.jeet.firebase.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608656750345-bchjqbc9v2sk69rs8pd1nep211v3dbdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9yW-icOlWPHRSDvX3s7oxda33PMskwEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608656750345-bchjqbc9v2sk69rs8pd1nep211v3dbdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
